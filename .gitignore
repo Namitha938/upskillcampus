@@ -1,0 +1,9 @@
+venv/
+yolov5/
+crop_weed_dataset/
+output_detections/
+plots/
+*.pt
+*.zip
+__pycache__/
+*.pyc

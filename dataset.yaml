@@ -1,0 +1,11 @@
+# YOLOv5 Dataset Configuration
+# Project 5: Crop and Weed Detection
+# Intern: Namitha Singu | UCT Internship
+
+path: C:\weed detection\crop_weed_project\crop_weed_dataset
+train: images/train
+val: images/val
+test: images/test
+
+nc: 2
+names: ['crop', 'weed']
